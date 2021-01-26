@@ -13,14 +13,14 @@ namespace MVCFilmi.Controllers
         {
             return View();
         }
-        public ActionResult Pozdravljen(string name="Niki",int num=1) {
-            ViewBag.Message = "Pozdravljen," + name;
+        public ActionResult Pozdravljen(string ime="Niki",int num=1) {
+            ViewBag.Message = "Pozdravljen, " + ime;
             ViewBag.Num = num;
             return View();
         }
 
-        public string Poz() {
-            return "Poz Svjt";
+        public string Nova(int id=1) {
+            return "Vrednost id je "+id;
         }
     }
 }

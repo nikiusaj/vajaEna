@@ -8,9 +8,9 @@ namespace MVCFilmi.Models
     public class Filmi
     {
         public int Id{ get; set; }
-        public int Naslov { get; set; }
-        public int Izdanm { get; set; }
-        public int Tip { get; set; }
-        public int Cena { get; set; }
+        public string Naslov { get; set; }
+        public DateTime Izdan { get; set; }
+        public string Tip { get; set; }
+        public decimal Cena { get; set; }
     }
 }

@@ -1,0 +1,7 @@
+D:\VajaEnaGit\PrimerDelegat\bin\Debug\PrimerDelegat.exe.config
+D:\VajaEnaGit\PrimerDelegat\bin\Debug\PrimerDelegat.exe
+D:\VajaEnaGit\PrimerDelegat\bin\Debug\PrimerDelegat.pdb
+D:\VajaEnaGit\PrimerDelegat\obj\Debug\PrimerDelegat.csprojAssemblyReference.cache
+D:\VajaEnaGit\PrimerDelegat\obj\Debug\PrimerDelegat.csproj.CoreCompileInputs.cache
+D:\VajaEnaGit\PrimerDelegat\obj\Debug\PrimerDelegat.exe
+D:\VajaEnaGit\PrimerDelegat\obj\Debug\PrimerDelegat.pdb
